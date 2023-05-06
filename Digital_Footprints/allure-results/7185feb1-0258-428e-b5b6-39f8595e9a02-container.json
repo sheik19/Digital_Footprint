@@ -1,0 +1,1 @@
+{"uuid":"7185feb1-0258-428e-b5b6-39f8595e9a02","name":"org.ctos.com.Baseclass.setUp","children":["38a15a92-11bf-4976-9be6-5065918ddfee"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683292484096,"stop":1683292485707}],"afters":[],"start":1683292484096,"stop":1683292485708}
